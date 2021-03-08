@@ -1,4 +1,4 @@
-# Authors: Brenda 
+# Author: Brenda 
 
 import datetime
 
