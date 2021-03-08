@@ -1,4 +1,4 @@
-# Authors : Brenda
+# Author : Brenda
 
 from tkinter import *
 import tkinter as tk
